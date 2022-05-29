@@ -49,8 +49,8 @@ iotable_wider <- iotable |>
   unite("output", output_type, output_name,
         sep = "/") |>
   pivot_wider(names_from = output,
-              values_from = value,
-              values_fill = 0)
+              values_from = value)
 
 write_excel_csv(iotable, "iotable.csv")
-write_excel_csv(iotable_wider, "iotable_wider.csv")
+write_excel_csv(iotable_wider, "iotable_wider.csv",
+                na = "")

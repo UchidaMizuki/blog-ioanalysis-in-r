@@ -1,7 +1,5 @@
-README
+Input-Output Analysis in R
 ================
-
-## Input-Output Analysis in R
 
 Japan’s 13-sector input-output table for 2011 and the 3-sector
 input-output table aggregated from it.

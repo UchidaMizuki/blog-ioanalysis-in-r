@@ -1,358 +1,358 @@
-﻿"input_type","input_name","output_type","output_name","value"
-"industry","01_Agriculture,forestry and fishery","industry","01_Agriculture,forestry and fishery",1456611000000
-"industry","02_Mining","industry","01_Agriculture,forestry and fishery",185000000
-"industry","03_Manufacturing","industry","01_Agriculture,forestry and fishery",2644966000000
-"industry","04_Construction","industry","01_Agriculture,forestry and fishery",70559000000
-"industry","05_Electricity,gas and water supply","industry","01_Agriculture,forestry and fishery",129027000000
-"industry","06_Commerce","industry","01_Agriculture,forestry and fishery",659194000000
-"industry","07_Finance and insurance","industry","01_Agriculture,forestry and fishery",70578000000
-"industry","08_Real estate","industry","01_Agriculture,forestry and fishery",25452000000
-"industry","09_Transport and postal services","industry","01_Agriculture,forestry and fishery",621420000000
-"industry","10_Information and communication","industry","01_Agriculture,forestry and fishery",40877000000
+﻿"input_type","input_name","output_type","output_name","value_M"
+"industry","01_Agriculture,forestry and fishery","industry","01_Agriculture,forestry and fishery",1456611
+"industry","02_Mining","industry","01_Agriculture,forestry and fishery",185
+"industry","03_Manufacturing","industry","01_Agriculture,forestry and fishery",2644966
+"industry","04_Construction","industry","01_Agriculture,forestry and fishery",70559
+"industry","05_Electricity,gas and water supply","industry","01_Agriculture,forestry and fishery",129027
+"industry","06_Commerce","industry","01_Agriculture,forestry and fishery",659194
+"industry","07_Finance and insurance","industry","01_Agriculture,forestry and fishery",70578
+"industry","08_Real estate","industry","01_Agriculture,forestry and fishery",25452
+"industry","09_Transport and postal services","industry","01_Agriculture,forestry and fishery",621420
+"industry","10_Information and communication","industry","01_Agriculture,forestry and fishery",40877
 "industry","11_Public administration","industry","01_Agriculture,forestry and fishery",0
-"industry","12_Services","industry","01_Agriculture,forestry and fishery",317219000000
-"industry","13_Activities not elsewhere classified","industry","01_Agriculture,forestry and fishery",161503000000
-"valueadded","71_Consumption expenditure outside households (row)","industry","01_Agriculture,forestry and fishery",75593000000
-"valueadded","91_Compensation of employees","industry","01_Agriculture,forestry and fishery",1352308000000
-"valueadded","92_Operating surplus","industry","01_Agriculture,forestry and fishery",2857901000000
-"valueadded","93_Consumption of fixed capital","industry","01_Agriculture,forestry and fishery",1723077000000
-"valueadded","94_Indirect taxes","industry","01_Agriculture,forestry and fishery",524698000000
-"valueadded","95_(less) Current subsidies","industry","01_Agriculture,forestry and fishery",-695206000000
-"industry","01_Agriculture,forestry and fishery","industry","02_Mining",75000000
-"industry","02_Mining","industry","02_Mining",1467000000
-"industry","03_Manufacturing","industry","02_Mining",67499000000
-"industry","04_Construction","industry","02_Mining",6089000000
-"industry","05_Electricity,gas and water supply","industry","02_Mining",29518000000
-"industry","06_Commerce","industry","02_Mining",19228000000
-"industry","07_Finance and insurance","industry","02_Mining",26912000000
-"industry","08_Real estate","industry","02_Mining",7520000000
-"industry","09_Transport and postal services","industry","02_Mining",194884000000
-"industry","10_Information and communication","industry","02_Mining",7791000000
+"industry","12_Services","industry","01_Agriculture,forestry and fishery",317219
+"industry","13_Activities not elsewhere classified","industry","01_Agriculture,forestry and fishery",161503
+"valueadded","71_Consumption expenditure outside households (row)","industry","01_Agriculture,forestry and fishery",75593
+"valueadded","91_Compensation of employees","industry","01_Agriculture,forestry and fishery",1352308
+"valueadded","92_Operating surplus","industry","01_Agriculture,forestry and fishery",2857901
+"valueadded","93_Consumption of fixed capital","industry","01_Agriculture,forestry and fishery",1723077
+"valueadded","94_Indirect taxes","industry","01_Agriculture,forestry and fishery",524698
+"valueadded","95_(less) Current subsidies","industry","01_Agriculture,forestry and fishery",-695206
+"industry","01_Agriculture,forestry and fishery","industry","02_Mining",75
+"industry","02_Mining","industry","02_Mining",1467
+"industry","03_Manufacturing","industry","02_Mining",67499
+"industry","04_Construction","industry","02_Mining",6089
+"industry","05_Electricity,gas and water supply","industry","02_Mining",29518
+"industry","06_Commerce","industry","02_Mining",19228
+"industry","07_Finance and insurance","industry","02_Mining",26912
+"industry","08_Real estate","industry","02_Mining",7520
+"industry","09_Transport and postal services","industry","02_Mining",194884
+"industry","10_Information and communication","industry","02_Mining",7791
 "industry","11_Public administration","industry","02_Mining",0
-"industry","12_Services","industry","02_Mining",53084000000
-"industry","13_Activities not elsewhere classified","industry","02_Mining",5797000000
-"valueadded","71_Consumption expenditure outside households (row)","industry","02_Mining",36509000000
-"valueadded","91_Compensation of employees","industry","02_Mining",143554000000
-"valueadded","92_Operating surplus","industry","02_Mining",44464000000
-"valueadded","93_Consumption of fixed capital","industry","02_Mining",74240000000
-"valueadded","94_Indirect taxes","industry","02_Mining",42295000000
-"valueadded","95_(less) Current subsidies","industry","02_Mining",-946000000
-"industry","01_Agriculture,forestry and fishery","industry","03_Manufacturing",7793613000000
-"industry","02_Mining","industry","03_Manufacturing",16857977000000
-"industry","03_Manufacturing","industry","03_Manufacturing",128796467000000
-"industry","04_Construction","industry","03_Manufacturing",1340627000000
-"industry","05_Electricity,gas and water supply","industry","03_Manufacturing",5433465000000
-"industry","06_Commerce","industry","03_Manufacturing",16319996000000
-"industry","07_Finance and insurance","industry","03_Manufacturing",1667186000000
-"industry","08_Real estate","industry","03_Manufacturing",589990000000
-"industry","09_Transport and postal services","industry","03_Manufacturing",7634204000000
-"industry","10_Information and communication","industry","03_Manufacturing",1896955000000
+"industry","12_Services","industry","02_Mining",53084
+"industry","13_Activities not elsewhere classified","industry","02_Mining",5797
+"valueadded","71_Consumption expenditure outside households (row)","industry","02_Mining",36509
+"valueadded","91_Compensation of employees","industry","02_Mining",143554
+"valueadded","92_Operating surplus","industry","02_Mining",44464
+"valueadded","93_Consumption of fixed capital","industry","02_Mining",74240
+"valueadded","94_Indirect taxes","industry","02_Mining",42295
+"valueadded","95_(less) Current subsidies","industry","02_Mining",-946
+"industry","01_Agriculture,forestry and fishery","industry","03_Manufacturing",7793613
+"industry","02_Mining","industry","03_Manufacturing",16857977
+"industry","03_Manufacturing","industry","03_Manufacturing",128796467
+"industry","04_Construction","industry","03_Manufacturing",1340627
+"industry","05_Electricity,gas and water supply","industry","03_Manufacturing",5433465
+"industry","06_Commerce","industry","03_Manufacturing",16319996
+"industry","07_Finance and insurance","industry","03_Manufacturing",1667186
+"industry","08_Real estate","industry","03_Manufacturing",589990
+"industry","09_Transport and postal services","industry","03_Manufacturing",7634204
+"industry","10_Information and communication","industry","03_Manufacturing",1896955
 "industry","11_Public administration","industry","03_Manufacturing",0
-"industry","12_Services","industry","03_Manufacturing",18174564000000
-"industry","13_Activities not elsewhere classified","industry","03_Manufacturing",832601000000
-"valueadded","71_Consumption expenditure outside households (row)","industry","03_Manufacturing",3319819000000
-"valueadded","91_Compensation of employees","industry","03_Manufacturing",43270034000000
-"valueadded","92_Operating surplus","industry","03_Manufacturing",7886224000000
-"valueadded","93_Consumption of fixed capital","industry","03_Manufacturing",17789156000000
-"valueadded","94_Indirect taxes","industry","03_Manufacturing",10487200000000
-"valueadded","95_(less) Current subsidies","industry","03_Manufacturing",-185572000000
-"industry","01_Agriculture,forestry and fishery","industry","04_Construction",56940000000
-"industry","02_Mining","industry","04_Construction",326076000000
-"industry","03_Manufacturing","industry","04_Construction",14427283000000
-"industry","04_Construction","industry","04_Construction",74068000000
-"industry","05_Electricity,gas and water supply","industry","04_Construction",279219000000
-"industry","06_Commerce","industry","04_Construction",3707597000000
-"industry","07_Finance and insurance","industry","04_Construction",705539000000
-"industry","08_Real estate","industry","04_Construction",243659000000
-"industry","09_Transport and postal services","industry","04_Construction",2238935000000
-"industry","10_Information and communication","industry","04_Construction",473694000000
+"industry","12_Services","industry","03_Manufacturing",18174564
+"industry","13_Activities not elsewhere classified","industry","03_Manufacturing",832601
+"valueadded","71_Consumption expenditure outside households (row)","industry","03_Manufacturing",3319819
+"valueadded","91_Compensation of employees","industry","03_Manufacturing",43270034
+"valueadded","92_Operating surplus","industry","03_Manufacturing",7886224
+"valueadded","93_Consumption of fixed capital","industry","03_Manufacturing",17789156
+"valueadded","94_Indirect taxes","industry","03_Manufacturing",10487200
+"valueadded","95_(less) Current subsidies","industry","03_Manufacturing",-185572
+"industry","01_Agriculture,forestry and fishery","industry","04_Construction",56940
+"industry","02_Mining","industry","04_Construction",326076
+"industry","03_Manufacturing","industry","04_Construction",14427283
+"industry","04_Construction","industry","04_Construction",74068
+"industry","05_Electricity,gas and water supply","industry","04_Construction",279219
+"industry","06_Commerce","industry","04_Construction",3707597
+"industry","07_Finance and insurance","industry","04_Construction",705539
+"industry","08_Real estate","industry","04_Construction",243659
+"industry","09_Transport and postal services","industry","04_Construction",2238935
+"industry","10_Information and communication","industry","04_Construction",473694
 "industry","11_Public administration","industry","04_Construction",0
-"industry","12_Services","industry","04_Construction",5485985000000
-"industry","13_Activities not elsewhere classified","industry","04_Construction",783322000000
-"valueadded","71_Consumption expenditure outside households (row)","industry","04_Construction",969175000000
-"valueadded","91_Compensation of employees","industry","04_Construction",18409793000000
-"valueadded","92_Operating surplus","industry","04_Construction",1031445000000
-"valueadded","93_Consumption of fixed capital","industry","04_Construction",1654461000000
-"valueadded","94_Indirect taxes","industry","04_Construction",1947017000000
-"valueadded","95_(less) Current subsidies","industry","04_Construction",-299723000000
+"industry","12_Services","industry","04_Construction",5485985
+"industry","13_Activities not elsewhere classified","industry","04_Construction",783322
+"valueadded","71_Consumption expenditure outside households (row)","industry","04_Construction",969175
+"valueadded","91_Compensation of employees","industry","04_Construction",18409793
+"valueadded","92_Operating surplus","industry","04_Construction",1031445
+"valueadded","93_Consumption of fixed capital","industry","04_Construction",1654461
+"valueadded","94_Indirect taxes","industry","04_Construction",1947017
+"valueadded","95_(less) Current subsidies","industry","04_Construction",-299723
 "industry","01_Agriculture,forestry and fishery","industry","05_Electricity,gas and water supply",0
-"industry","02_Mining","industry","05_Electricity,gas and water supply",6905061000000
-"industry","03_Manufacturing","industry","05_Electricity,gas and water supply",2267566000000
-"industry","04_Construction","industry","05_Electricity,gas and water supply",1179541000000
-"industry","05_Electricity,gas and water supply","industry","05_Electricity,gas and water supply",2867130000000
-"industry","06_Commerce","industry","05_Electricity,gas and water supply",398909000000
-"industry","07_Finance and insurance","industry","05_Electricity,gas and water supply",415849000000
-"industry","08_Real estate","industry","05_Electricity,gas and water supply",175158000000
-"industry","09_Transport and postal services","industry","05_Electricity,gas and water supply",901224000000
-"industry","10_Information and communication","industry","05_Electricity,gas and water supply",451138000000
+"industry","02_Mining","industry","05_Electricity,gas and water supply",6905061
+"industry","03_Manufacturing","industry","05_Electricity,gas and water supply",2267566
+"industry","04_Construction","industry","05_Electricity,gas and water supply",1179541
+"industry","05_Electricity,gas and water supply","industry","05_Electricity,gas and water supply",2867130
+"industry","06_Commerce","industry","05_Electricity,gas and water supply",398909
+"industry","07_Finance and insurance","industry","05_Electricity,gas and water supply",415849
+"industry","08_Real estate","industry","05_Electricity,gas and water supply",175158
+"industry","09_Transport and postal services","industry","05_Electricity,gas and water supply",901224
+"industry","10_Information and communication","industry","05_Electricity,gas and water supply",451138
 "industry","11_Public administration","industry","05_Electricity,gas and water supply",0
-"industry","12_Services","industry","05_Electricity,gas and water supply",3124101000000
-"industry","13_Activities not elsewhere classified","industry","05_Electricity,gas and water supply",109763000000
-"valueadded","71_Consumption expenditure outside households (row)","industry","05_Electricity,gas and water supply",304990000000
-"valueadded","91_Compensation of employees","industry","05_Electricity,gas and water supply",2498158000000
-"valueadded","92_Operating surplus","industry","05_Electricity,gas and water supply",-2386079000000
-"valueadded","93_Consumption of fixed capital","industry","05_Electricity,gas and water supply",5669897000000
-"valueadded","94_Indirect taxes","industry","05_Electricity,gas and water supply",1140534000000
-"valueadded","95_(less) Current subsidies","industry","05_Electricity,gas and water supply",-268267000000
-"industry","01_Agriculture,forestry and fishery","industry","06_Commerce",8759000000
+"industry","12_Services","industry","05_Electricity,gas and water supply",3124101
+"industry","13_Activities not elsewhere classified","industry","05_Electricity,gas and water supply",109763
+"valueadded","71_Consumption expenditure outside households (row)","industry","05_Electricity,gas and water supply",304990
+"valueadded","91_Compensation of employees","industry","05_Electricity,gas and water supply",2498158
+"valueadded","92_Operating surplus","industry","05_Electricity,gas and water supply",-2386079
+"valueadded","93_Consumption of fixed capital","industry","05_Electricity,gas and water supply",5669897
+"valueadded","94_Indirect taxes","industry","05_Electricity,gas and water supply",1140534
+"valueadded","95_(less) Current subsidies","industry","05_Electricity,gas and water supply",-268267
+"industry","01_Agriculture,forestry and fishery","industry","06_Commerce",8759
 "industry","02_Mining","industry","06_Commerce",0
-"industry","03_Manufacturing","industry","06_Commerce",3078079000000
-"industry","04_Construction","industry","06_Commerce",644813000000
-"industry","05_Electricity,gas and water supply","industry","06_Commerce",2104783000000
-"industry","06_Commerce","industry","06_Commerce",1925850000000
-"industry","07_Finance and insurance","industry","06_Commerce",1595778000000
-"industry","08_Real estate","industry","06_Commerce",3217378000000
-"industry","09_Transport and postal services","industry","06_Commerce",5274310000000
-"industry","10_Information and communication","industry","06_Commerce",3758528000000
+"industry","03_Manufacturing","industry","06_Commerce",3078079
+"industry","04_Construction","industry","06_Commerce",644813
+"industry","05_Electricity,gas and water supply","industry","06_Commerce",2104783
+"industry","06_Commerce","industry","06_Commerce",1925850
+"industry","07_Finance and insurance","industry","06_Commerce",1595778
+"industry","08_Real estate","industry","06_Commerce",3217378
+"industry","09_Transport and postal services","industry","06_Commerce",5274310
+"industry","10_Information and communication","industry","06_Commerce",3758528
 "industry","11_Public administration","industry","06_Commerce",0
-"industry","12_Services","industry","06_Commerce",7262084000000
-"industry","13_Activities not elsewhere classified","industry","06_Commerce",672799000000
-"valueadded","71_Consumption expenditure outside households (row)","industry","06_Commerce",2111244000000
-"valueadded","91_Compensation of employees","industry","06_Commerce",37017812000000
-"valueadded","92_Operating surplus","industry","06_Commerce",15042517000000
-"valueadded","93_Consumption of fixed capital","industry","06_Commerce",6512891000000
-"valueadded","94_Indirect taxes","industry","06_Commerce",3480106000000
-"valueadded","95_(less) Current subsidies","industry","06_Commerce",-51918000000
+"industry","12_Services","industry","06_Commerce",7262084
+"industry","13_Activities not elsewhere classified","industry","06_Commerce",672799
+"valueadded","71_Consumption expenditure outside households (row)","industry","06_Commerce",2111244
+"valueadded","91_Compensation of employees","industry","06_Commerce",37017812
+"valueadded","92_Operating surplus","industry","06_Commerce",15042517
+"valueadded","93_Consumption of fixed capital","industry","06_Commerce",6512891
+"valueadded","94_Indirect taxes","industry","06_Commerce",3480106
+"valueadded","95_(less) Current subsidies","industry","06_Commerce",-51918
 "industry","01_Agriculture,forestry and fishery","industry","07_Finance and insurance",0
 "industry","02_Mining","industry","07_Finance and insurance",0
-"industry","03_Manufacturing","industry","07_Finance and insurance",990737000000
-"industry","04_Construction","industry","07_Finance and insurance",188422000000
-"industry","05_Electricity,gas and water supply","industry","07_Finance and insurance",180997000000
-"industry","06_Commerce","industry","07_Finance and insurance",216723000000
-"industry","07_Finance and insurance","industry","07_Finance and insurance",2012259000000
-"industry","08_Real estate","industry","07_Finance and insurance",631478000000
-"industry","09_Transport and postal services","industry","07_Finance and insurance",1087032000000
-"industry","10_Information and communication","industry","07_Finance and insurance",1901761000000
+"industry","03_Manufacturing","industry","07_Finance and insurance",990737
+"industry","04_Construction","industry","07_Finance and insurance",188422
+"industry","05_Electricity,gas and water supply","industry","07_Finance and insurance",180997
+"industry","06_Commerce","industry","07_Finance and insurance",216723
+"industry","07_Finance and insurance","industry","07_Finance and insurance",2012259
+"industry","08_Real estate","industry","07_Finance and insurance",631478
+"industry","09_Transport and postal services","industry","07_Finance and insurance",1087032
+"industry","10_Information and communication","industry","07_Finance and insurance",1901761
 "industry","11_Public administration","industry","07_Finance and insurance",0
-"industry","12_Services","industry","07_Finance and insurance",3640919000000
-"industry","13_Activities not elsewhere classified","industry","07_Finance and insurance",126273000000
-"valueadded","71_Consumption expenditure outside households (row)","industry","07_Finance and insurance",952195000000
-"valueadded","91_Compensation of employees","industry","07_Finance and insurance",9836060000000
-"valueadded","92_Operating surplus","industry","07_Finance and insurance",7138085000000
-"valueadded","93_Consumption of fixed capital","industry","07_Finance and insurance",3493636000000
-"valueadded","94_Indirect taxes","industry","07_Finance and insurance",545173000000
-"valueadded","95_(less) Current subsidies","industry","07_Finance and insurance",-847837000000
-"industry","01_Agriculture,forestry and fishery","industry","08_Real estate",176000000
+"industry","12_Services","industry","07_Finance and insurance",3640919
+"industry","13_Activities not elsewhere classified","industry","07_Finance and insurance",126273
+"valueadded","71_Consumption expenditure outside households (row)","industry","07_Finance and insurance",952195
+"valueadded","91_Compensation of employees","industry","07_Finance and insurance",9836060
+"valueadded","92_Operating surplus","industry","07_Finance and insurance",7138085
+"valueadded","93_Consumption of fixed capital","industry","07_Finance and insurance",3493636
+"valueadded","94_Indirect taxes","industry","07_Finance and insurance",545173
+"valueadded","95_(less) Current subsidies","industry","07_Finance and insurance",-847837
+"industry","01_Agriculture,forestry and fishery","industry","08_Real estate",176
 "industry","02_Mining","industry","08_Real estate",0
-"industry","03_Manufacturing","industry","08_Real estate",195671000000
-"industry","04_Construction","industry","08_Real estate",3155658000000
-"industry","05_Electricity,gas and water supply","industry","08_Real estate",420750000000
-"industry","06_Commerce","industry","08_Real estate",113882000000
-"industry","07_Finance and insurance","industry","08_Real estate",5383055000000
-"industry","08_Real estate","industry","08_Real estate",1561970000000
-"industry","09_Transport and postal services","industry","08_Real estate",175934000000
-"industry","10_Information and communication","industry","08_Real estate",287010000000
+"industry","03_Manufacturing","industry","08_Real estate",195671
+"industry","04_Construction","industry","08_Real estate",3155658
+"industry","05_Electricity,gas and water supply","industry","08_Real estate",420750
+"industry","06_Commerce","industry","08_Real estate",113882
+"industry","07_Finance and insurance","industry","08_Real estate",5383055
+"industry","08_Real estate","industry","08_Real estate",1561970
+"industry","09_Transport and postal services","industry","08_Real estate",175934
+"industry","10_Information and communication","industry","08_Real estate",287010
 "industry","11_Public administration","industry","08_Real estate",0
-"industry","12_Services","industry","08_Real estate",2168719000000
-"industry","13_Activities not elsewhere classified","industry","08_Real estate",344572000000
-"valueadded","71_Consumption expenditure outside households (row)","industry","08_Real estate",272111000000
-"valueadded","91_Compensation of employees","industry","08_Real estate",3947853000000
-"valueadded","92_Operating surplus","industry","08_Real estate",29708221000000
-"valueadded","93_Consumption of fixed capital","industry","08_Real estate",19495249000000
-"valueadded","94_Indirect taxes","industry","08_Real estate",3998108000000
-"valueadded","95_(less) Current subsidies","industry","08_Real estate",-41406000000
-"industry","01_Agriculture,forestry and fishery","industry","09_Transport and postal services",2137000000
-"industry","02_Mining","industry","09_Transport and postal services",114000000
-"industry","03_Manufacturing","industry","09_Transport and postal services",7050143000000
-"industry","04_Construction","industry","09_Transport and postal services",686950000000
-"industry","05_Electricity,gas and water supply","industry","09_Transport and postal services",676682000000
-"industry","06_Commerce","industry","09_Transport and postal services",1325358000000
-"industry","07_Finance and insurance","industry","09_Transport and postal services",995808000000
-"industry","08_Real estate","industry","09_Transport and postal services",1016734000000
-"industry","09_Transport and postal services","industry","09_Transport and postal services",5126066000000
-"industry","10_Information and communication","industry","09_Transport and postal services",542574000000
+"industry","12_Services","industry","08_Real estate",2168719
+"industry","13_Activities not elsewhere classified","industry","08_Real estate",344572
+"valueadded","71_Consumption expenditure outside households (row)","industry","08_Real estate",272111
+"valueadded","91_Compensation of employees","industry","08_Real estate",3947853
+"valueadded","92_Operating surplus","industry","08_Real estate",29708221
+"valueadded","93_Consumption of fixed capital","industry","08_Real estate",19495249
+"valueadded","94_Indirect taxes","industry","08_Real estate",3998108
+"valueadded","95_(less) Current subsidies","industry","08_Real estate",-41406
+"industry","01_Agriculture,forestry and fishery","industry","09_Transport and postal services",2137
+"industry","02_Mining","industry","09_Transport and postal services",114
+"industry","03_Manufacturing","industry","09_Transport and postal services",7050143
+"industry","04_Construction","industry","09_Transport and postal services",686950
+"industry","05_Electricity,gas and water supply","industry","09_Transport and postal services",676682
+"industry","06_Commerce","industry","09_Transport and postal services",1325358
+"industry","07_Finance and insurance","industry","09_Transport and postal services",995808
+"industry","08_Real estate","industry","09_Transport and postal services",1016734
+"industry","09_Transport and postal services","industry","09_Transport and postal services",5126066
+"industry","10_Information and communication","industry","09_Transport and postal services",542574
 "industry","11_Public administration","industry","09_Transport and postal services",0
-"industry","12_Services","industry","09_Transport and postal services",6185168000000
-"industry","13_Activities not elsewhere classified","industry","09_Transport and postal services",373710000000
-"valueadded","71_Consumption expenditure outside households (row)","industry","09_Transport and postal services",823768000000
-"valueadded","91_Compensation of employees","industry","09_Transport and postal services",14100784000000
-"valueadded","92_Operating surplus","industry","09_Transport and postal services",2228570000000
-"valueadded","93_Consumption of fixed capital","industry","09_Transport and postal services",5328246000000
-"valueadded","94_Indirect taxes","industry","09_Transport and postal services",1996355000000
-"valueadded","95_(less) Current subsidies","industry","09_Transport and postal services",-225133000000
+"industry","12_Services","industry","09_Transport and postal services",6185168
+"industry","13_Activities not elsewhere classified","industry","09_Transport and postal services",373710
+"valueadded","71_Consumption expenditure outside households (row)","industry","09_Transport and postal services",823768
+"valueadded","91_Compensation of employees","industry","09_Transport and postal services",14100784
+"valueadded","92_Operating surplus","industry","09_Transport and postal services",2228570
+"valueadded","93_Consumption of fixed capital","industry","09_Transport and postal services",5328246
+"valueadded","94_Indirect taxes","industry","09_Transport and postal services",1996355
+"valueadded","95_(less) Current subsidies","industry","09_Transport and postal services",-225133
 "industry","01_Agriculture,forestry and fishery","industry","10_Information and communication",0
 "industry","02_Mining","industry","10_Information and communication",0
-"industry","03_Manufacturing","industry","10_Information and communication",2300817000000
-"industry","04_Construction","industry","10_Information and communication",322764000000
-"industry","05_Electricity,gas and water supply","industry","10_Information and communication",399010000000
-"industry","06_Commerce","industry","10_Information and communication",674557000000
-"industry","07_Finance and insurance","industry","10_Information and communication",219677000000
-"industry","08_Real estate","industry","10_Information and communication",1214661000000
-"industry","09_Transport and postal services","industry","10_Information and communication",1166073000000
-"industry","10_Information and communication","industry","10_Information and communication",7022394000000
+"industry","03_Manufacturing","industry","10_Information and communication",2300817
+"industry","04_Construction","industry","10_Information and communication",322764
+"industry","05_Electricity,gas and water supply","industry","10_Information and communication",399010
+"industry","06_Commerce","industry","10_Information and communication",674557
+"industry","07_Finance and insurance","industry","10_Information and communication",219677
+"industry","08_Real estate","industry","10_Information and communication",1214661
+"industry","09_Transport and postal services","industry","10_Information and communication",1166073
+"industry","10_Information and communication","industry","10_Information and communication",7022394
 "industry","11_Public administration","industry","10_Information and communication",0
-"industry","12_Services","industry","10_Information and communication",8276338000000
-"industry","13_Activities not elsewhere classified","industry","10_Information and communication",303169000000
-"valueadded","71_Consumption expenditure outside households (row)","industry","10_Information and communication",861457000000
-"valueadded","91_Compensation of employees","industry","10_Information and communication",10647999000000
-"valueadded","92_Operating surplus","industry","10_Information and communication",7885435000000
-"valueadded","93_Consumption of fixed capital","industry","10_Information and communication",3978577000000
-"valueadded","94_Indirect taxes","industry","10_Information and communication",889480000000
-"valueadded","95_(less) Current subsidies","industry","10_Information and communication",-2151000000
-"industry","01_Agriculture,forestry and fishery","industry","11_Public administration",1760000000
-"industry","02_Mining","industry","11_Public administration",288000000
-"industry","03_Manufacturing","industry","11_Public administration",2621807000000
-"industry","04_Construction","industry","11_Public administration",810258000000
-"industry","05_Electricity,gas and water supply","industry","11_Public administration",538470000000
-"industry","06_Commerce","industry","11_Public administration",507162000000
-"industry","07_Finance and insurance","industry","11_Public administration",1629212000000
-"industry","08_Real estate","industry","11_Public administration",61246000000
-"industry","09_Transport and postal services","industry","11_Public administration",1358991000000
-"industry","10_Information and communication","industry","11_Public administration",1045584000000
+"industry","12_Services","industry","10_Information and communication",8276338
+"industry","13_Activities not elsewhere classified","industry","10_Information and communication",303169
+"valueadded","71_Consumption expenditure outside households (row)","industry","10_Information and communication",861457
+"valueadded","91_Compensation of employees","industry","10_Information and communication",10647999
+"valueadded","92_Operating surplus","industry","10_Information and communication",7885435
+"valueadded","93_Consumption of fixed capital","industry","10_Information and communication",3978577
+"valueadded","94_Indirect taxes","industry","10_Information and communication",889480
+"valueadded","95_(less) Current subsidies","industry","10_Information and communication",-2151
+"industry","01_Agriculture,forestry and fishery","industry","11_Public administration",1760
+"industry","02_Mining","industry","11_Public administration",288
+"industry","03_Manufacturing","industry","11_Public administration",2621807
+"industry","04_Construction","industry","11_Public administration",810258
+"industry","05_Electricity,gas and water supply","industry","11_Public administration",538470
+"industry","06_Commerce","industry","11_Public administration",507162
+"industry","07_Finance and insurance","industry","11_Public administration",1629212
+"industry","08_Real estate","industry","11_Public administration",61246
+"industry","09_Transport and postal services","industry","11_Public administration",1358991
+"industry","10_Information and communication","industry","11_Public administration",1045584
 "industry","11_Public administration","industry","11_Public administration",0
-"industry","12_Services","industry","11_Public administration",3864610000000
-"industry","13_Activities not elsewhere classified","industry","11_Public administration",33894000000
-"valueadded","71_Consumption expenditure outside households (row)","industry","11_Public administration",397062000000
-"valueadded","91_Compensation of employees","industry","11_Public administration",14501379000000
+"industry","12_Services","industry","11_Public administration",3864610
+"industry","13_Activities not elsewhere classified","industry","11_Public administration",33894
+"valueadded","71_Consumption expenditure outside households (row)","industry","11_Public administration",397062
+"valueadded","91_Compensation of employees","industry","11_Public administration",14501379
 "valueadded","92_Operating surplus","industry","11_Public administration",0
-"valueadded","93_Consumption of fixed capital","industry","11_Public administration",11910957000000
-"valueadded","94_Indirect taxes","industry","11_Public administration",122514000000
+"valueadded","93_Consumption of fixed capital","industry","11_Public administration",11910957
+"valueadded","94_Indirect taxes","industry","11_Public administration",122514
 "valueadded","95_(less) Current subsidies","industry","11_Public administration",0
-"industry","01_Agriculture,forestry and fishery","industry","12_Services",1360935000000
-"industry","02_Mining","industry","12_Services",1153000000
-"industry","03_Manufacturing","industry","12_Services",28693206000000
-"industry","04_Construction","industry","12_Services",1293478000000
-"industry","05_Electricity,gas and water supply","industry","12_Services",4649129000000
-"industry","06_Commerce","industry","12_Services",9410434000000
-"industry","07_Finance and insurance","industry","12_Services",1858021000000
-"industry","08_Real estate","industry","12_Services",2961078000000
-"industry","09_Transport and postal services","industry","12_Services",4930376000000
-"industry","10_Information and communication","industry","12_Services",7819100000000
+"industry","01_Agriculture,forestry and fishery","industry","12_Services",1360935
+"industry","02_Mining","industry","12_Services",1153
+"industry","03_Manufacturing","industry","12_Services",28693206
+"industry","04_Construction","industry","12_Services",1293478
+"industry","05_Electricity,gas and water supply","industry","12_Services",4649129
+"industry","06_Commerce","industry","12_Services",9410434
+"industry","07_Finance and insurance","industry","12_Services",1858021
+"industry","08_Real estate","industry","12_Services",2961078
+"industry","09_Transport and postal services","industry","12_Services",4930376
+"industry","10_Information and communication","industry","12_Services",7819100
 "industry","11_Public administration","industry","12_Services",0
-"industry","12_Services","industry","12_Services",21267108000000
-"industry","13_Activities not elsewhere classified","industry","12_Services",1279852000000
-"valueadded","71_Consumption expenditure outside households (row)","industry","12_Services",3493024000000
-"valueadded","91_Compensation of employees","industry","12_Services",92516553000000
-"valueadded","92_Operating surplus","industry","12_Services",13887143000000
-"valueadded","93_Consumption of fixed capital","industry","12_Services",21802522000000
-"valueadded","94_Indirect taxes","industry","12_Services",6714170000000
-"valueadded","95_(less) Current subsidies","industry","12_Services",-979051000000
+"industry","12_Services","industry","12_Services",21267108
+"industry","13_Activities not elsewhere classified","industry","12_Services",1279852
+"valueadded","71_Consumption expenditure outside households (row)","industry","12_Services",3493024
+"valueadded","91_Compensation of employees","industry","12_Services",92516553
+"valueadded","92_Operating surplus","industry","12_Services",13887143
+"valueadded","93_Consumption of fixed capital","industry","12_Services",21802522
+"valueadded","94_Indirect taxes","industry","12_Services",6714170
+"valueadded","95_(less) Current subsidies","industry","12_Services",-979051
 "industry","01_Agriculture,forestry and fishery","industry","13_Activities not elsewhere classified",0
-"industry","02_Mining","industry","13_Activities not elsewhere classified",455000000
-"industry","03_Manufacturing","industry","13_Activities not elsewhere classified",454846000000
+"industry","02_Mining","industry","13_Activities not elsewhere classified",455
+"industry","03_Manufacturing","industry","13_Activities not elsewhere classified",454846
 "industry","04_Construction","industry","13_Activities not elsewhere classified",0
-"industry","05_Electricity,gas and water supply","industry","13_Activities not elsewhere classified",64923000000
-"industry","06_Commerce","industry","13_Activities not elsewhere classified",76141000000
-"industry","07_Finance and insurance","industry","13_Activities not elsewhere classified",24138000000
-"industry","08_Real estate","industry","13_Activities not elsewhere classified",195260000000
-"industry","09_Transport and postal services","industry","13_Activities not elsewhere classified",397540000000
-"industry","10_Information and communication","industry","13_Activities not elsewhere classified",212206000000
-"industry","11_Public administration","industry","13_Activities not elsewhere classified",1136566000000
-"industry","12_Services","industry","13_Activities not elsewhere classified",449453000000
+"industry","05_Electricity,gas and water supply","industry","13_Activities not elsewhere classified",64923
+"industry","06_Commerce","industry","13_Activities not elsewhere classified",76141
+"industry","07_Finance and insurance","industry","13_Activities not elsewhere classified",24138
+"industry","08_Real estate","industry","13_Activities not elsewhere classified",195260
+"industry","09_Transport and postal services","industry","13_Activities not elsewhere classified",397540
+"industry","10_Information and communication","industry","13_Activities not elsewhere classified",212206
+"industry","11_Public administration","industry","13_Activities not elsewhere classified",1136566
+"industry","12_Services","industry","13_Activities not elsewhere classified",449453
 "industry","13_Activities not elsewhere classified","industry","13_Activities not elsewhere classified",0
-"valueadded","71_Consumption expenditure outside households (row)","industry","13_Activities not elsewhere classified",16349000000
-"valueadded","91_Compensation of employees","industry","13_Activities not elsewhere classified",178736000000
-"valueadded","92_Operating surplus","industry","13_Activities not elsewhere classified",1482179000000
-"valueadded","93_Consumption of fixed capital","industry","13_Activities not elsewhere classified",275048000000
-"valueadded","94_Indirect taxes","industry","13_Activities not elsewhere classified",46459000000
-"valueadded","95_(less) Current subsidies","industry","13_Activities not elsewhere classified",-24000000
-"industry","01_Agriculture,forestry and fishery","finaldemand","71_Consumption expenditure outside households (column)",63419000000
-"industry","02_Mining","finaldemand","71_Consumption expenditure outside households (column)",-5385000000
-"industry","03_Manufacturing","finaldemand","71_Consumption expenditure outside households (column)",1639119000000
+"valueadded","71_Consumption expenditure outside households (row)","industry","13_Activities not elsewhere classified",16349
+"valueadded","91_Compensation of employees","industry","13_Activities not elsewhere classified",178736
+"valueadded","92_Operating surplus","industry","13_Activities not elsewhere classified",1482179
+"valueadded","93_Consumption of fixed capital","industry","13_Activities not elsewhere classified",275048
+"valueadded","94_Indirect taxes","industry","13_Activities not elsewhere classified",46459
+"valueadded","95_(less) Current subsidies","industry","13_Activities not elsewhere classified",-24
+"industry","01_Agriculture,forestry and fishery","finaldemand","71_Consumption expenditure outside households (column)",63419
+"industry","02_Mining","finaldemand","71_Consumption expenditure outside households (column)",-5385
+"industry","03_Manufacturing","finaldemand","71_Consumption expenditure outside households (column)",1639119
 "industry","04_Construction","finaldemand","71_Consumption expenditure outside households (column)",0
-"industry","05_Electricity,gas and water supply","finaldemand","71_Consumption expenditure outside households (column)",7892000000
-"industry","06_Commerce","finaldemand","71_Consumption expenditure outside households (column)",1552393000000
-"industry","07_Finance and insurance","finaldemand","71_Consumption expenditure outside households (column)",170000000
+"industry","05_Electricity,gas and water supply","finaldemand","71_Consumption expenditure outside households (column)",7892
+"industry","06_Commerce","finaldemand","71_Consumption expenditure outside households (column)",1552393
+"industry","07_Finance and insurance","finaldemand","71_Consumption expenditure outside households (column)",170
 "industry","08_Real estate","finaldemand","71_Consumption expenditure outside households (column)",0
-"industry","09_Transport and postal services","finaldemand","71_Consumption expenditure outside households (column)",399245000000
-"industry","10_Information and communication","finaldemand","71_Consumption expenditure outside households (column)",161417000000
+"industry","09_Transport and postal services","finaldemand","71_Consumption expenditure outside households (column)",399245
+"industry","10_Information and communication","finaldemand","71_Consumption expenditure outside households (column)",161417
 "industry","11_Public administration","finaldemand","71_Consumption expenditure outside households (column)",0
-"industry","12_Services","finaldemand","71_Consumption expenditure outside households (column)",9815026000000
+"industry","12_Services","finaldemand","71_Consumption expenditure outside households (column)",9815026
 "industry","13_Activities not elsewhere classified","finaldemand","71_Consumption expenditure outside households (column)",0
-"industry","01_Agriculture,forestry and fishery","finaldemand","72_Consumption expenditure (private)",3389053000000
-"industry","02_Mining","finaldemand","72_Consumption expenditure (private)",-6104000000
-"industry","03_Manufacturing","finaldemand","72_Consumption expenditure (private)",55177632000000
+"industry","01_Agriculture,forestry and fishery","finaldemand","72_Consumption expenditure (private)",3389053
+"industry","02_Mining","finaldemand","72_Consumption expenditure (private)",-6104
+"industry","03_Manufacturing","finaldemand","72_Consumption expenditure (private)",55177632
 "industry","04_Construction","finaldemand","72_Consumption expenditure (private)",0
-"industry","05_Electricity,gas and water supply","finaldemand","72_Consumption expenditure (private)",8201914000000
-"industry","06_Commerce","finaldemand","72_Consumption expenditure (private)",43597219000000
-"industry","07_Finance and insurance","finaldemand","72_Consumption expenditure (private)",15558156000000
-"industry","08_Real estate","finaldemand","72_Consumption expenditure (private)",59204489000000
-"industry","09_Transport and postal services","finaldemand","72_Consumption expenditure (private)",13784850000000
-"industry","10_Information and communication","finaldemand","72_Consumption expenditure (private)",12722940000000
-"industry","11_Public administration","finaldemand","72_Consumption expenditure (private)",1115155000000
-"industry","12_Services","finaldemand","72_Consumption expenditure (private)",70057277000000
-"industry","13_Activities not elsewhere classified","finaldemand","72_Consumption expenditure (private)",18864000000
+"industry","05_Electricity,gas and water supply","finaldemand","72_Consumption expenditure (private)",8201914
+"industry","06_Commerce","finaldemand","72_Consumption expenditure (private)",43597219
+"industry","07_Finance and insurance","finaldemand","72_Consumption expenditure (private)",15558156
+"industry","08_Real estate","finaldemand","72_Consumption expenditure (private)",59204489
+"industry","09_Transport and postal services","finaldemand","72_Consumption expenditure (private)",13784850
+"industry","10_Information and communication","finaldemand","72_Consumption expenditure (private)",12722940
+"industry","11_Public administration","finaldemand","72_Consumption expenditure (private)",1115155
+"industry","12_Services","finaldemand","72_Consumption expenditure (private)",70057277
+"industry","13_Activities not elsewhere classified","finaldemand","72_Consumption expenditure (private)",18864
 "industry","01_Agriculture,forestry and fishery","finaldemand","73_Consumption expenditure of general government",0
 "industry","02_Mining","finaldemand","73_Consumption expenditure of general government",0
-"industry","03_Manufacturing","finaldemand","73_Consumption expenditure of general government",242889000000
+"industry","03_Manufacturing","finaldemand","73_Consumption expenditure of general government",242889
 "industry","04_Construction","finaldemand","73_Consumption expenditure of general government",0
-"industry","05_Electricity,gas and water supply","finaldemand","73_Consumption expenditure of general government",-261415000000
-"industry","06_Commerce","finaldemand","73_Consumption expenditure of general government",9758000000
+"industry","05_Electricity,gas and water supply","finaldemand","73_Consumption expenditure of general government",-261415
+"industry","06_Commerce","finaldemand","73_Consumption expenditure of general government",9758
 "industry","07_Finance and insurance","finaldemand","73_Consumption expenditure of general government",0
-"industry","08_Real estate","finaldemand","73_Consumption expenditure of general government",61313000000
-"industry","09_Transport and postal services","finaldemand","73_Consumption expenditure of general government",-53198000000
-"industry","10_Information and communication","finaldemand","73_Consumption expenditure of general government",35795000000
-"industry","11_Public administration","finaldemand","73_Consumption expenditure of general government",37153473000000
-"industry","12_Services","finaldemand","73_Consumption expenditure of general government",61547852000000
+"industry","08_Real estate","finaldemand","73_Consumption expenditure of general government",61313
+"industry","09_Transport and postal services","finaldemand","73_Consumption expenditure of general government",-53198
+"industry","10_Information and communication","finaldemand","73_Consumption expenditure of general government",35795
+"industry","11_Public administration","finaldemand","73_Consumption expenditure of general government",37153473
+"industry","12_Services","finaldemand","73_Consumption expenditure of general government",61547852
 "industry","13_Activities not elsewhere classified","finaldemand","73_Consumption expenditure of general government",0
-"industry","01_Agriculture,forestry and fishery","finaldemand","74_Gross domestic fixed capital formation",168260000000
-"industry","02_Mining","finaldemand","74_Gross domestic fixed capital formation",-6977000000
-"industry","03_Manufacturing","finaldemand","74_Gross domestic fixed capital formation",31026686000000
-"industry","04_Construction","finaldemand","74_Gross domestic fixed capital formation",42741258000000
+"industry","01_Agriculture,forestry and fishery","finaldemand","74_Gross domestic fixed capital formation",168260
+"industry","02_Mining","finaldemand","74_Gross domestic fixed capital formation",-6977
+"industry","03_Manufacturing","finaldemand","74_Gross domestic fixed capital formation",31026686
+"industry","04_Construction","finaldemand","74_Gross domestic fixed capital formation",42741258
 "industry","05_Electricity,gas and water supply","finaldemand","74_Gross domestic fixed capital formation",0
-"industry","06_Commerce","finaldemand","74_Gross domestic fixed capital formation",6388151000000
+"industry","06_Commerce","finaldemand","74_Gross domestic fixed capital formation",6388151
 "industry","07_Finance and insurance","finaldemand","74_Gross domestic fixed capital formation",0
 "industry","08_Real estate","finaldemand","74_Gross domestic fixed capital formation",0
-"industry","09_Transport and postal services","finaldemand","74_Gross domestic fixed capital formation",661230000000
-"industry","10_Information and communication","finaldemand","74_Gross domestic fixed capital formation",8217008000000
+"industry","09_Transport and postal services","finaldemand","74_Gross domestic fixed capital formation",661230
+"industry","10_Information and communication","finaldemand","74_Gross domestic fixed capital formation",8217008
 "industry","11_Public administration","finaldemand","74_Gross domestic fixed capital formation",0
-"industry","12_Services","finaldemand","74_Gross domestic fixed capital formation",2188790000000
+"industry","12_Services","finaldemand","74_Gross domestic fixed capital formation",2188790
 "industry","13_Activities not elsewhere classified","finaldemand","74_Gross domestic fixed capital formation",0
-"industry","01_Agriculture,forestry and fishery","finaldemand","76_Increase in stocks",246810000000
-"industry","02_Mining","finaldemand","76_Increase in stocks",-42044000000
-"industry","03_Manufacturing","finaldemand","76_Increase in stocks",598327000000
+"industry","01_Agriculture,forestry and fishery","finaldemand","76_Increase in stocks",246810
+"industry","02_Mining","finaldemand","76_Increase in stocks",-42044
+"industry","03_Manufacturing","finaldemand","76_Increase in stocks",598327
 "industry","04_Construction","finaldemand","76_Increase in stocks",0
 "industry","05_Electricity,gas and water supply","finaldemand","76_Increase in stocks",0
-"industry","06_Commerce","finaldemand","76_Increase in stocks",150652000000
+"industry","06_Commerce","finaldemand","76_Increase in stocks",150652
 "industry","07_Finance and insurance","finaldemand","76_Increase in stocks",0
 "industry","08_Real estate","finaldemand","76_Increase in stocks",0
-"industry","09_Transport and postal services","finaldemand","76_Increase in stocks",37890000000
-"industry","10_Information and communication","finaldemand","76_Increase in stocks",-11809000000
+"industry","09_Transport and postal services","finaldemand","76_Increase in stocks",37890
+"industry","10_Information and communication","finaldemand","76_Increase in stocks",-11809
 "industry","11_Public administration","finaldemand","76_Increase in stocks",0
 "industry","12_Services","finaldemand","76_Increase in stocks",0
 "industry","13_Activities not elsewhere classified","finaldemand","76_Increase in stocks",0
-"industry","01_Agriculture,forestry and fishery","finaldemand","77_Balancing sector",2333000000
-"industry","02_Mining","finaldemand","77_Balancing sector",1735000000
-"industry","03_Manufacturing","finaldemand","77_Balancing sector",1557187000000
+"industry","01_Agriculture,forestry and fishery","finaldemand","77_Balancing sector",2333
+"industry","02_Mining","finaldemand","77_Balancing sector",1735
+"industry","03_Manufacturing","finaldemand","77_Balancing sector",1557187
 "industry","04_Construction","finaldemand","77_Balancing sector",0
 "industry","05_Electricity,gas and water supply","finaldemand","77_Balancing sector",0
 "industry","06_Commerce","finaldemand","77_Balancing sector",0
 "industry","07_Finance and insurance","finaldemand","77_Balancing sector",0
 "industry","08_Real estate","finaldemand","77_Balancing sector",0
 "industry","09_Transport and postal services","finaldemand","77_Balancing sector",0
-"industry","10_Information and communication","finaldemand","77_Balancing sector",724000000
+"industry","10_Information and communication","finaldemand","77_Balancing sector",724
 "industry","11_Public administration","finaldemand","77_Balancing sector",0
-"industry","12_Services","finaldemand","77_Balancing sector",1334000000
+"industry","12_Services","finaldemand","77_Balancing sector",1334
 "industry","13_Activities not elsewhere classified","finaldemand","77_Balancing sector",0
-"industry","01_Agriculture,forestry and fishery","export","81_Exports total",47890000000
-"industry","02_Mining","export","81_Exports total",35575000000
-"industry","03_Manufacturing","export","81_Exports total",54437698000000
+"industry","01_Agriculture,forestry and fishery","export","81_Exports total",47890
+"industry","02_Mining","export","81_Exports total",35575
+"industry","03_Manufacturing","export","81_Exports total",54437698
 "industry","04_Construction","export","81_Exports total",0
-"industry","05_Electricity,gas and water supply","export","81_Exports total",35308000000
-"industry","06_Commerce","export","81_Exports total",7591509000000
-"industry","07_Finance and insurance","export","81_Exports total",838222000000
-"industry","08_Real estate","export","81_Exports total",21813000000
-"industry","09_Transport and postal services","export","81_Exports total",5759487000000
-"industry","10_Information and communication","export","81_Exports total",289726000000
+"industry","05_Electricity,gas and water supply","export","81_Exports total",35308
+"industry","06_Commerce","export","81_Exports total",7591509
+"industry","07_Finance and insurance","export","81_Exports total",838222
+"industry","08_Real estate","export","81_Exports total",21813
+"industry","09_Transport and postal services","export","81_Exports total",5759487
+"industry","10_Information and communication","export","81_Exports total",289726
 "industry","11_Public administration","export","81_Exports total",0
-"industry","12_Services","export","81_Exports total",1883659000000
-"industry","13_Activities not elsewhere classified","export","81_Exports total",3693000000
-"industry","01_Agriculture,forestry and fishery","import","84_(less) Imports",-2403086000000
-"industry","02_Mining","import","84_(less) Imports",-21672797000000
-"industry","03_Manufacturing","import","84_(less) Imports",-44158980000000
+"industry","12_Services","export","81_Exports total",1883659
+"industry","13_Activities not elsewhere classified","export","81_Exports total",3693
+"industry","01_Agriculture,forestry and fishery","import","84_(less) Imports",-2403086
+"industry","02_Mining","import","84_(less) Imports",-21672797
+"industry","03_Manufacturing","import","84_(less) Imports",-44158980
 "industry","04_Construction","import","84_(less) Imports",0
-"industry","05_Electricity,gas and water supply","import","84_(less) Imports",-2129000000
-"industry","06_Commerce","import","84_(less) Imports",-988900000000
-"industry","07_Finance and insurance","import","84_(less) Imports",-906647000000
-"industry","08_Real estate","import","84_(less) Imports",-1666000000
-"industry","09_Transport and postal services","import","84_(less) Imports",-3462459000000
-"industry","10_Information and communication","import","84_(less) Imports",-713235000000
+"industry","05_Electricity,gas and water supply","import","84_(less) Imports",-2129
+"industry","06_Commerce","import","84_(less) Imports",-988900
+"industry","07_Finance and insurance","import","84_(less) Imports",-906647
+"industry","08_Real estate","import","84_(less) Imports",-1666
+"industry","09_Transport and postal services","import","84_(less) Imports",-3462459
+"industry","10_Information and communication","import","84_(less) Imports",-713235
 "industry","11_Public administration","import","84_(less) Imports",0
-"industry","12_Services","import","84_(less) Imports",-2804935000000
-"industry","13_Activities not elsewhere classified","import","84_(less) Imports",-39537000000
-"industry","01_Agriculture,forestry and fishery","import","85_(less) Custom duties",-37758000000
-"industry","02_Mining","import","85_(less) Custom duties",-7000000
-"industry","03_Manufacturing","import","85_(less) Custom duties",-794936000000
+"industry","12_Services","import","84_(less) Imports",-2804935
+"industry","13_Activities not elsewhere classified","import","84_(less) Imports",-39537
+"industry","01_Agriculture,forestry and fishery","import","85_(less) Custom duties",-37758
+"industry","02_Mining","import","85_(less) Custom duties",-7
+"industry","03_Manufacturing","import","85_(less) Custom duties",-794936
 "industry","04_Construction","import","85_(less) Custom duties",0
 "industry","05_Electricity,gas and water supply","import","85_(less) Custom duties",0
 "industry","06_Commerce","import","85_(less) Custom duties",0
@@ -363,16 +363,16 @@
 "industry","11_Public administration","import","85_(less) Custom duties",0
 "industry","12_Services","import","85_(less) Custom duties",0
 "industry","13_Activities not elsewhere classified","import","85_(less) Custom duties",0
-"industry","01_Agriculture,forestry and fishery","import","86_(less) Commodity taxes on imported goods",-121965000000
-"industry","02_Mining","import","86_(less) Commodity taxes on imported goods",-1636792000000
-"industry","03_Manufacturing","import","86_(less) Commodity taxes on imported goods",-3410203000000
+"industry","01_Agriculture,forestry and fishery","import","86_(less) Commodity taxes on imported goods",-121965
+"industry","02_Mining","import","86_(less) Commodity taxes on imported goods",-1636792
+"industry","03_Manufacturing","import","86_(less) Commodity taxes on imported goods",-3410203
 "industry","04_Construction","import","86_(less) Commodity taxes on imported goods",0
 "industry","05_Electricity,gas and water supply","import","86_(less) Commodity taxes on imported goods",0
 "industry","06_Commerce","import","86_(less) Commodity taxes on imported goods",0
 "industry","07_Finance and insurance","import","86_(less) Commodity taxes on imported goods",0
 "industry","08_Real estate","import","86_(less) Commodity taxes on imported goods",0
 "industry","09_Transport and postal services","import","86_(less) Commodity taxes on imported goods",0
-"industry","10_Information and communication","import","86_(less) Commodity taxes on imported goods",-1921000000
+"industry","10_Information and communication","import","86_(less) Commodity taxes on imported goods",-1921
 "industry","11_Public administration","import","86_(less) Commodity taxes on imported goods",0
-"industry","12_Services","import","86_(less) Commodity taxes on imported goods",-124000000
+"industry","12_Services","import","86_(less) Commodity taxes on imported goods",-124
 "industry","13_Activities not elsewhere classified","import","86_(less) Commodity taxes on imported goods",0

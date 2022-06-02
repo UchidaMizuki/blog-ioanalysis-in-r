@@ -39,8 +39,7 @@ iotable_13sector_2011_ja <- iotable_13sector_2011_ja |>
                                  str_starts(output_name, "7") ~ "finaldemand",
                                  str_starts(output_name, "81") ~ "export",
                                  str_starts(output_name, "8[4-6]") ~ "import"),
-         value = parse_number(value_M) * 1e6) |>
-  select(!value_M) |>
+         value_M = parse_number(value_M)) |>
   relocate(input_type, input_name, output_type, output_name)
 
 input_name <- iotable_13sector_2011_ja |>
@@ -118,7 +117,7 @@ iotable_3sector_2011 <- iotable_13sector_2011_ja |>
            input_name,
            output_type = as_factor(output_type),
            output_name) |>
-  summarise(value = sum(value),
+  summarise(value_M = sum(value_M),
             .groups = "drop") |>
   mutate(across(c(input_type, output_type),
                 as.character))
@@ -131,7 +130,7 @@ wider_iotable <- function(x) {
     unite("output", output_type, output_name,
           sep = "/") |>
     pivot_wider(names_from = output,
-                values_from = value)
+                values_from = value_M)
 }
 
 iotable_13sector_2011_wider <- wider_iotable(iotable_13sector_2011)

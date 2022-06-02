@@ -1,5 +1,5 @@
 ---
-title: "Input-Output Analysis in R"
+title: "Blog: Input-Output Analysis in R"
 format: markdown_github
 editor: visual
 ---

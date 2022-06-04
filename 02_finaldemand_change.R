@@ -8,7 +8,7 @@ finaldemand_change <- function(file) {
                               value_M = "n")) |>
     filter(input_type == "industry") |>
     distinct(input_type, input_name) |>
-    add_column(value_M = 0)
+    add_column(value_M = 1)
 }
 
 finaldemand_change_13sector_ja <- finaldemand_change("iotable_13sector_2011_ja.csv")

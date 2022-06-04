@@ -1,14 +1,14 @@
 ﻿"input_type","input_name","value_M"
-"industry","01_Agriculture,forestry and fishery",0
-"industry","02_Mining",0
-"industry","03_Manufacturing",0
-"industry","04_Construction",0
-"industry","05_Electricity,gas and water supply",0
-"industry","06_Commerce",0
-"industry","07_Finance and insurance",0
-"industry","08_Real estate",0
-"industry","09_Transport and postal services",0
-"industry","10_Information and communication",0
-"industry","11_Public administration",0
-"industry","12_Services",0
-"industry","13_Activities not elsewhere classified",0
+"industry","01_Agriculture,forestry and fishery",1
+"industry","02_Mining",1
+"industry","03_Manufacturing",1
+"industry","04_Construction",1
+"industry","05_Electricity,gas and water supply",1
+"industry","06_Commerce",1
+"industry","07_Finance and insurance",1
+"industry","08_Real estate",1
+"industry","09_Transport and postal services",1
+"industry","10_Information and communication",1
+"industry","11_Public administration",1
+"industry","12_Services",1
+"industry","13_Activities not elsewhere classified",1

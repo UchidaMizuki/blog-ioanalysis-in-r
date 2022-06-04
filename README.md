@@ -14,4 +14,4 @@ industries.
 [Source](https://www.e-stat.go.jp/dbview?sid=0003119272)
 
 [Latest
-release](https://github.com/UchidaMizuki/blog-ioanalysis-in-r/releases/tag/v1.1.0)
+release](https://github.com/UchidaMizuki/blog-ioanalysis-in-r/releases/tag/v1.2.0)

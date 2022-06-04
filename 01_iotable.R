@@ -1,6 +1,8 @@
 library(tidyverse)
 library(jpstat)
 
+# 01_iotable --------------------------------------------------------------
+
 appId <- keyring::key_get("estat-api")
 
 # iotable, 13 sectors, 2011, Japanese

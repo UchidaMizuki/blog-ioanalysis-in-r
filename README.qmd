@@ -4,6 +4,8 @@ format: markdown_github
 editor: visual
 ---
 
+https://uchidamizuki.github.io/blog/posts/ioanalysis-in-r-ja/ioanalysis-in-r-ja.html
+
 Japan's 13-sector input-output table for 2011 and the 3-sector input-output table aggregated from it.
 
 Note: "Activities not elsewhere classified" are classified as tertiary industries.

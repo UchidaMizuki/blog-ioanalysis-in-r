@@ -1,6 +1,8 @@
 Blog: Input-Output Analysis in R
 ================
 
+https://uchidamizuki.github.io/blog/posts/ioanalysis-in-r-ja/ioanalysis-in-r-ja.html
+
 Japan’s 13-sector input-output table for 2011 and the 3-sector
 input-output table aggregated from it.
 
